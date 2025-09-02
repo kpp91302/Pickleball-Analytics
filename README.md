@@ -12,11 +12,9 @@ A computer vision pipeline for analyzing pickleball gameplay videos using deep l
 
 [Modules](#modules)
 
-[Dependencies](#dependencies)
-
 ## Overview
 
-![](./Demo_Video.mp4)
+![](https://youtu.be/NBn5zAptNPo)
 
 This project combines YOLO-based object/keypoint detection with homography transformations to power analytics to provide a rich breakdown of pickleball gameplay.
 
@@ -77,3 +75,4 @@ python main.py
 - [process_video.py](./process_video.py) – Orchestrates full pipeline and renders composite video
 
 - [main.py](./main.py) – Tkinter desktop UI for selecting/processing videos and monitoring progress
+
